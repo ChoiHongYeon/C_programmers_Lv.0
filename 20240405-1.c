@@ -1,4 +1,4 @@
-// ÁÖ»çÀ§ °ÔÀÓ 3(https://school.programmers.co.kr/learn/courses/30/lessons/181916)
+ï»¿// ì£¼ì‚¬ìœ„ ê²Œìž„ 3(https://school.programmers.co.kr/learn/courses/30/lessons/181916)
 
 #include <stdio.h>
 #include <stdbool.h>
